@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magari/static/css/main.c602b77d.css",
+    "main.js": "/magari/static/js/main.7635c209.js",
+    "index.html": "/magari/index.html",
+    "main.c602b77d.css.map": "/magari/static/css/main.c602b77d.css.map",
+    "main.7635c209.js.map": "/magari/static/js/main.7635c209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c602b77d.css",
+    "static/js/main.7635c209.js"
+  ]
+}
