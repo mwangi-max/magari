@@ -1,0 +1,22 @@
+export const images = [
+ {id:1,image:'https://images.pexels.com/photos/337909/pexels-photo-337909.jpeg?auto=compress&cs=tinysrgb&w=600',make:'lamborghini',location:'ndiani'},
+ {id:2,image:'https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&w=600',make:'mercedes c class',location:'nairobi'},
+ {id:3,image:'https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&w=600',make:'audi',location:'mariakani'},
+ {id:4,image:'https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?auto=compress&cs=tinysrgb&w=600',make:'range rover sports',location:'kileleshwa'},
+ {id:5,image:'https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg?auto=compress&cs=tinysrgb&w=600',make:'beetle',location:'nakuru'},
+ {id:6,image:'https://images.pexels.com/photos/248687/pexels-photo-248687.jpeg?auto=compress&cs=tinysrgb&w=600',make:'escalade',location:'nairobi'},
+ {id:7,image:'https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600',make:'BMW c model',location:'nairobi'},
+ {id:8,image:'https://images.pexels.com/photos/2882234/pexels-photo-2882234.jpeg?auto=compress&cs=tinysrgb&w=600',make:'jeep',location:'ndiani'},
+ {id:9,image:'https://images.pexels.com/photos/446389/pexels-photo-446389.jpeg?auto=compress&cs=tinysrgb&w=600',make:'mercedes g class',location:'ndiani'},
+ {id:10,image:'https://images.pexels.com/photos/575386/pexels-photo-575386.jpeg?auto=compress&cs=tinysrgb&w=600',make:'jaguar',location:'ndiani'},
+ {id:11,image:'https://images.pexels.com/photos/1007410/pexels-photo-1007410.jpeg?auto=compress&cs=tinysrgb&w=600',make:'lamborghini',location:'nairobi'},
+ {id:12,image:'https://images.pexels.com/photos/977003/pexels-photo-977003.jpeg?auto=compress&cs=tinysrgb&w=600',make:'toyota sports',location:'ndiani'},
+ {id:13,image:'https://images.pexels.com/photos/2920064/pexels-photo-2920064.jpeg?auto=compress&cs=tinysrgb&w=600',make:'hyundai',location:'nairobi'},
+ {id:14,image:'https://images.pexels.com/photos/1209774/pexels-photo-1209774.jpeg?auto=compress&cs=tinysrgb&w=600',make:'VW Beetle',location:'nairobi'},
+ {id:15,image:'https://images.pexels.com/photos/105296/pexels-photo-105296.jpeg?auto=compress&cs=tinysrgb&w=600',make:'toyota prado',location:'ndiani'},
+ {id:16,image:'https://images.pexels.com/photos/951319/pexels-photo-951319.jpeg?auto=compress&cs=tinysrgb&w=600',make:'bentley',location:'nairobi'},
+ {id:17,image:'https://images.pexels.com/photos/119435/pexels-photo-119435.jpeg?auto=compress&cs=tinysrgb&w=600',make:'jeep s series',location:'nakuru'},
+ {id:18,image:'https://images.pexels.com/photos/1335077/pexels-photo-1335077.jpeg?auto=compress&cs=tinysrgb&w=600',make:'mercedes s model',location:'nakuru'},
+ {id:19,image:'https://images.pexels.com/photos/1534604/pexels-photo-1534604.jpeg?auto=compress&cs=tinysrgb&w=600',make:'vintage',location:'nakuru'},
+ {id:20,image:'https://images.pexels.com/photos/1035108/pexels-photo-1035108.jpeg?auto=compress&cs=tinysrgb&w=600',make:'audi g wagon',location:'nakuru'}
+];

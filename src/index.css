@@ -1,13 +1,69 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+*{
+ padding:0;
+ margin:0;
+ box-sizing: border-box;
+}
+body{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ background:salmon;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h3,h4,h2{
+ padding:0.2rem;
+ text-transform: capitalize;
+ text-align: center;
+}
+h2{
+ width: 100%;
+}
+
+section{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ position:relative;
+ height:600px;
+ width:800px;
+ margin:0 auto;
+ background:white;
+ overflow:hidden;
+}
+.btn-container{
+ position:absolute;
+ left:50%;
+ bottom:0;
+ transform: translate(-50%,-50%);
+}
+button{
+ padding:0.4rem;
+ margin:0.4rem;
+}
+button:hover{
+ color:white;
+ background:blue;
+}
+
+article{
+ position:absolute;
+ top:0;
+ left:0;
+ height:100%;
+ width:100%;
+ padding-top:0.2rem;
+ opacity:0;
+}
+figure{
+ text-align: center;
+}
+
+article.nextSlide{
+ transform: translateX(100%);
+}
+article.lastSlide{
+ transform: translateX(-100%);
+}
+article.activeSlide{
+ opacity:1;
+ transform: translate(0);
+ 
 }
