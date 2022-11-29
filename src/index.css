@@ -67,3 +67,9 @@ article.activeSlide{
  transform: translate(0);
  
 }
+@media (max-width:768px){
+ section{
+  height:400px;
+  width:500px;
+ }
+}
